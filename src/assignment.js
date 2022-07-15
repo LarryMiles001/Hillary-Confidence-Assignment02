@@ -41,6 +41,14 @@ function countEvenNumbers(arrayOfNumbers) {
 }
 assignment.countEvenNumbers = countEvenNumbers;
 
+Run exam-01-practice/jest-to-sheets@v2
+  with:
+    challenge: ch-1;ch-2;ch-3
+    lang: javascript
+    server: https://api.sheetson.com/v2/sheets
+    sheetid: 1Qb5Ovjy1l2UG94Cht2govguYX5fpCIgoTKPUd2ufMm4
+    token: HXlur8K20ZpoB-6FNsnSUtj2kGoDqCDHDl8vZBdLtQCv9UFOVhMsM2IBwD8
+
 /**
  * Challenge - 3
  * 
@@ -60,6 +68,13 @@ function celsiusToFahrenheit(arrayOfNumbers) {
 }
 // assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
+Run exam-01-practice/jest-to-sheets@v2
+  with:
+    challenge: ch-1;ch-2;ch-3
+    lang: javascript
+    server: https://api.sheetson.com/v2/sheets
+    sheetid: 1Qb5Ovjy1l2UG94Cht2govguYX5fpCIgoTKPUd2ufMm4
+    token: HXlur8K20ZpoB-6FNsnSUtj2kGoDqCDHDl8vZBdLtQCv9UFOVhMsM2IBwD8
 
 // ========================
 // DO NOT EDIT THIS BLOCK
