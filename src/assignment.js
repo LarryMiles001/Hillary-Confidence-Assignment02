@@ -59,7 +59,8 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     return arrayOfNumbers;
 }
 // assignment.celsiusToFahrenheit = celsiusToFahrenheit;
-
+friday july 2022;
+time : 10:28;
 
 // ========================
 // DO NOT EDIT THIS BLOCK
